@@ -19,7 +19,7 @@ export const UserProvider = ({ children }: { children: React.ReactNode }) => {
       if (user) {
         try {
           const res = await fetch(
-            `http://localhost:3001/loggedUser?loggedUserId=${user.uid}`
+            `https://api-fixdas.onrender.com/loggedUser?loggedUserId=${user.uid}`
           );
           const data = await res.json();
           let userData = data[0];
@@ -34,11 +34,14 @@ export const UserProvider = ({ children }: { children: React.ReactNode }) => {
               photoUrl: user.photoURL || "",
             };
 
-            const postRes = await fetch("http://localhost:3001/loggedUser", {
-              method: "POST",
-              headers: { "Content-Type": "application/json" },
-              body: JSON.stringify(newUser),
-            });
+            const postRes = await fetch(
+              "https://api-fixdas.onrender.com/loggedUser",
+              {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(newUser),
+              }
+            );
 
             userData = await postRes.json();
           }

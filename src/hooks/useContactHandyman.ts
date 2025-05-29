@@ -10,7 +10,7 @@ const useContactHandyman = () => {
   const handleContactClick = async (handyman: AvailableHandyman) => {
     if (!currentUser) navigate("/notAuth");
     try {
-      const res = await fetch("http://localhost:3001/chats");
+      const res = await fetch("https://api-fixdas.onrender.com/chats");
       const chats = await res.json();
 
       // Check if chat already exists for the handyman
@@ -34,7 +34,7 @@ const useContactHandyman = () => {
           messages: [],
         };
 
-        const createRes = await fetch("http://localhost:3001/chats", {
+        const createRes = await fetch("https://api-fixdas.onrender.com/chats", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

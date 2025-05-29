@@ -6,7 +6,9 @@ const Testimonials = () => {
   const [testimonials, setTestimonials] = useState<TestimonialsType[]>([]);
   useEffect(() => {
     const fetchTestimonials = async () => {
-      const response = await fetch("http://localhost:3001/testimonials");
+      const response = await fetch(
+        "https://api-fixdas.onrender.com/testimonials"
+      );
       const testimonialsData = await response.json();
       setTestimonials(testimonialsData);
     };

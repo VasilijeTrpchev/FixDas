@@ -21,7 +21,9 @@ const ProfileHandyman = () => {
     const fetchHandymanProfile = async () => {
       setIsLoading(true);
 
-      const res = await fetch("http://localhost:3001/availableHandyman");
+      const res = await fetch(
+        "https://api-fixdas.onrender.com/availableHandyman"
+      );
       const resHandymen = await res.json();
       const filtered = resHandymen.find(
         (h: AvailableHandyman) =>

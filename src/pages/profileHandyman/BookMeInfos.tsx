@@ -36,7 +36,7 @@ const BookMeInfos = ({
       coordinates: handymanProfile.coordinates,
     };
 
-    await fetch("http://localhost:3001/bookedClients", {
+    await fetch("https://api-fixdas.onrender.com/bookedClients", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(bookingPayload),

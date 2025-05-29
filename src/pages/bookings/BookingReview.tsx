@@ -28,7 +28,7 @@ const BookingReview = ({
 
     // 1. Fetch current handyman to get existing kundeFeedback
     const handymanRes = await fetch(
-      `http://localhost:3001/availableHandyman/${handymanId}`
+      `https://api-fixdas.onrender.com/availableHandyman/${handymanId}`
     );
     const handymanData = await handymanRes.json();
 
@@ -38,7 +38,7 @@ const BookingReview = ({
     }
 
     const userRes = await fetch(
-      `http://localhost:3001/loggedUser?loggedUserId=${loggedUserId}`
+      `https://api-fixdas.onrender.com/loggedUser?loggedUserId=${loggedUserId}`
     );
     const arrRes = await userRes.json();
     const loggedUserData = arrRes[0];
@@ -53,16 +53,21 @@ const BookingReview = ({
     };
 
     // 3. PATCH the updated kundeFeedback array
-    await fetch(`http://localhost:3001/availableHandyman/${handymanId}`, {
-      method: "PATCH",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        kundeFeedback: [...handymanData.kundeFeedback, newFeedback],
-      }),
-    });
-    const bookedRes = await fetch("http://localhost:3001/bookedClients");
+    await fetch(
+      `https://api-fixdas.onrender.com/availableHandyman/${handymanId}`,
+      {
+        method: "PATCH",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          kundeFeedback: [...handymanData.kundeFeedback, newFeedback],
+        }),
+      }
+    );
+    const bookedRes = await fetch(
+      "https://api-fixdas.onrender.com/bookedClients"
+    );
     const bookedClients = await bookedRes.json();
 
     const filteredBookings = bookedClients.find(
@@ -76,7 +81,7 @@ const BookingReview = ({
     // delete bookedClients
     if (filteredBookings?.id) {
       await fetch(
-        `http://localhost:3001/bookedClients/${filteredBookings.id}`,
+        `https://api-fixdas.onrender.com/bookedClients/${filteredBookings.id}`,
         {
           method: "DELETE",
         }

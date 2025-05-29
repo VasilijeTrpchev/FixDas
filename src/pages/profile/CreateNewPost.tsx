@@ -47,7 +47,7 @@ const CreateNewPost = ({
     };
 
     try {
-      const res = await fetch(`http://localhost:3001/clientPosts`, {
+      const res = await fetch(`https://api-fixdas.onrender.com/clientPosts`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

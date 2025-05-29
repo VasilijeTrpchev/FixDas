@@ -37,7 +37,9 @@ const KarteLogged = () => {
 
   useEffect(() => {
     const fetchAvailableHandymans = async () => {
-      const response = await fetch("http://localhost:3001/availableHandyman");
+      const response = await fetch(
+        "https://api-fixdas.onrender.com/availableHandyman"
+      );
       const handyMans = await response.json();
       setAvailableHandymans(handyMans);
     };

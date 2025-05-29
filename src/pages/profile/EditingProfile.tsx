@@ -24,7 +24,7 @@ const EditingProfile = ({
   const handlePhotoUrlSave = async () => {
     try {
       const res = await fetch(
-        `http://localhost:3001/loggedUser/${userInfo.id}`,
+        `https://api-fixdas.onrender.com/loggedUser/${userInfo.id}`,
         {
           method: "PATCH",
           headers: {
@@ -44,7 +44,7 @@ const EditingProfile = ({
   const handleNameSave = async () => {
     try {
       const res = await fetch(
-        `http://localhost:3001/loggedUser/${userInfo.id}`,
+        `https://api-fixdas.onrender.com/loggedUser/${userInfo.id}`,
         {
           method: "PATCH",
           headers: {
@@ -69,7 +69,7 @@ const EditingProfile = ({
   const handleEmailSave = async () => {
     try {
       const res = await fetch(
-        `http://localhost:3001/loggedUser/${userInfo.id}`,
+        `https://api-fixdas.onrender.com/loggedUser/${userInfo.id}`,
         {
           method: "PATCH",
           headers: {
@@ -90,7 +90,7 @@ const EditingProfile = ({
   const handleCitySave = async () => {
     try {
       const res = await fetch(
-        `http://localhost:3001/loggedUser/${userInfo.id}`,
+        `https://api-fixdas.onrender.com/loggedUser/${userInfo.id}`,
         {
           method: "PATCH",
           headers: {
@@ -112,7 +112,7 @@ const EditingProfile = ({
   const handlePhoneSave = async () => {
     try {
       const res = await fetch(
-        `http://localhost:3001/loggedUser/${userInfo.id}`,
+        `https://api-fixdas.onrender.com/loggedUser/${userInfo.id}`,
         {
           method: "PATCH",
           headers: {

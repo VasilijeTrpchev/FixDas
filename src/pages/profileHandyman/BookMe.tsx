@@ -33,7 +33,7 @@ const BookMe = ({
     const formatted = date.toLocaleDateString("sv-SE");
 
     const res = await fetch(
-      `http://localhost:3001/bookedClients?handymanId=${handymanProfile.id}&date=${formatted}`
+      `https://api-fixdas.onrender.com/bookedClients?handymanId=${handymanProfile.id}&date=${formatted}`
     );
     const data = await res.json();
     const bookedTime = data.map((booking: any) => booking.time);

@@ -27,7 +27,9 @@ const Bookings = () => {
     const auth = getAuth();
     const unsubscribe = onAuthStateChanged(auth, async (currUser) => {
       if (currUser) {
-        const res = await fetch("http://localhost:3001/bookedClients");
+        const res = await fetch(
+          "https://api-fixdas.onrender.com/bookedClients"
+        );
         const bookings: bookedClients[] = await res.json();
 
         // completed bookings
@@ -38,7 +40,7 @@ const Bookings = () => {
         const combinedBookings = await Promise.all(
           userBooking.map(async (booking) => {
             const handymanRes = await fetch(
-              `http://localhost:3001/availableHandyman?id=${booking.handymanId}`
+              `https://api-fixdas.onrender.com/availableHandyman?id=${booking.handymanId}`
             );
             const handymanData = await handymanRes.json();
             return {
@@ -57,7 +59,7 @@ const Bookings = () => {
         const combinedOngoingBookings = await Promise.all(
           ongoingBooking.map(async (booking) => {
             const handymanRes = await fetch(
-              `http://localhost:3001/availableHandyman?id=${booking.handymanId}`
+              `https://api-fixdas.onrender.com/availableHandyman?id=${booking.handymanId}`
             );
             const handymanData = await handymanRes.json();
             return {
@@ -75,7 +77,7 @@ const Bookings = () => {
         const newRequestWithHandyman = await Promise.all(
           newRequest.map(async (booking) => {
             const handymanRes = await fetch(
-              `http://localhost:3001/availableHandyman?id=${booking.handymanId}`
+              `https://api-fixdas.onrender.com/availableHandyman?id=${booking.handymanId}`
             );
             const handymanData = await handymanRes.json();
             return { ...booking, handyman: handymanData[0] || null };

@@ -9,7 +9,9 @@ const TopHandymans = () => {
   const navigate = useNavigate();
   useEffect(() => {
     const fetchTopHandymans = async () => {
-      const response = await fetch("http://localhost:3001/topRatedHandymen");
+      const response = await fetch(
+        "https://api-fixdas.onrender.com/topRatedHandymen"
+      );
       const topHandymans = await response.json();
       setTopHandymans(topHandymans);
     };

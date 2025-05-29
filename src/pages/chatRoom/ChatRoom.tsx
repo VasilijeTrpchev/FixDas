@@ -27,7 +27,7 @@ const ChatRoom = () => {
 
     const fetchUserInfo = async () => {
       try {
-        const res = await fetch(`http://localhost:3001/chats/${id}`);
+        const res = await fetch(`https://api-fixdas.onrender.com/chats/${id}`);
         const chatsRes = await res.json();
 
         setUserInfo(chatsRes);
@@ -55,7 +55,7 @@ const ChatRoom = () => {
 
     try {
       const updatedMessage = [...messages, newMessage];
-      await fetch(`http://localhost:3001/chats/${id}`, {
+      await fetch(`https://api-fixdas.onrender.com/chats/${id}`, {
         method: "PATCH",
         headers: {
           "Content-Type": "application/json",

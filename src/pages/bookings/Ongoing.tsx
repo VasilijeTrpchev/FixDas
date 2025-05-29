@@ -26,7 +26,7 @@ const Ongoing = ({
   const handleOnComplited = async (bookingId: number) => {
     try {
       const response = await fetch(
-        `http://localhost:3001/bookedClients/${bookingId}`,
+        `https://api-fixdas.onrender.com/bookedClients/${bookingId}`,
         {
           method: "PATCH",
           headers: {

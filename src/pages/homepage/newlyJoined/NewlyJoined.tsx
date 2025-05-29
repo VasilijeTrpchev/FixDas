@@ -10,7 +10,9 @@ const NewlyJoined = () => {
   const navigate = useNavigate();
   useEffect(() => {
     const fetchNewlyJoinedHandymans = async () => {
-      const response = await fetch("http://localhost:3001/newlyJoinedHandymen");
+      const response = await fetch(
+        "https://api-fixdas.onrender.com/newlyJoinedHandymen"
+      );
       const newHandymans = await response.json();
       setNewlyJoinedHandymans(newHandymans);
     };

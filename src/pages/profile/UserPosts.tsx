@@ -7,7 +7,7 @@ import { Modal } from "bootstrap";
 import LoadingSpinner from "../../components/LoadingSpinner";
 const fetchUserPosts = async (userId: string) => {
   const res = await fetch(
-    `http://localhost:3001/clientPosts?loggedUserId=${userId}`
+    `https://api-fixdas.onrender.com/clientPosts?loggedUserId=${userId}`
   );
   const posts = await res.json();
   return posts;
@@ -29,9 +29,12 @@ const UserPosts = () => {
   const confirmDelete = async () => {
     if (postToDelete === null) return;
     try {
-      await fetch(`http://localhost:3001/clientPosts/${postToDelete}`, {
-        method: "DELETE",
-      });
+      await fetch(
+        `https://api-fixdas.onrender.com/clientPosts/${postToDelete}`,
+        {
+          method: "DELETE",
+        }
+      );
 
       setUserPosts(
         (prevPosts) =>

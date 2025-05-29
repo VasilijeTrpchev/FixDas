@@ -37,7 +37,7 @@ const FindHandyman = () => {
   ) => {
     if (q) {
       const url = new URL(
-        `http://localhost:3001/availableHandyman?_limit=${limit}&_page=${pageNum}`
+        `https://api-fixdas.onrender.com/availableHandyman?_limit=${limit}&_page=${pageNum}`
       );
       url.searchParams.set("q", q);
       const response = await fetch(url.toString());
@@ -52,7 +52,9 @@ const FindHandyman = () => {
 
     // Filter by categories and/or zip code
     if ((categories && categories.length > 0) || zipCode) {
-      const response = await fetch(`http://localhost:3001/availableHandyman`);
+      const response = await fetch(
+        `https://api-fixdas.onrender.com/availableHandyman`
+      );
       const all = await response.json();
 
       let filtered = all;
@@ -81,7 +83,7 @@ const FindHandyman = () => {
 
     // Default initial fetch (first 3 handymen)
     const url = new URL(
-      `http://localhost:3001/availableHandyman?_limit=${limit}&_page=${pageNum}`
+      `https://api-fixdas.onrender.com/availableHandyman?_limit=${limit}&_page=${pageNum}`
     );
     const response = await fetch(url.toString());
     const availableHandyman = await response.json();

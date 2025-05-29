@@ -16,7 +16,7 @@ const Chat = () => {
 
       try {
         const res = await fetch(
-          `http://localhost:3001/chats?loggedUserId=${user.uid}`
+          `https://api-fixdas.onrender.com/chats?loggedUserId=${user.uid}`
         );
         const resChats = await res.json();
         setChats(resChats);
