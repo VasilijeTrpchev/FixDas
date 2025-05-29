@@ -1,0 +1,13 @@
+.currStatus-p {
+  border-bottom: 2px solid hsl(23, 100%, 49%);
+  padding-bottom: 4px;
+  color: hsl(23, 100%, 49%);
+}
+
+.booking-font {
+  font-size: 12px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

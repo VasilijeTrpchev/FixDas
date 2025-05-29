@@ -1,0 +1,53 @@
+.img-user img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.custom-icon {
+  background-color: white !important;
+}
+
+.chat-box {
+  flex: 1;
+  height: calc(100vh - 200px);
+  overflow-y: auto;
+  padding-bottom: 100px;
+}
+.chat-box::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+.message {
+  max-width: 70%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+.msg-color {
+  background-color: #fb8133;
+}
+
+.input-msg {
+  position: fixed;
+  width: 100%;
+  bottom: 84px;
+  /* left: 0; */
+  /* right: 0; */
+  background: inherit;
+  z-index: 1000;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.message-item {
+  animation: fadeIn 0.5s ease-in-out;
+}

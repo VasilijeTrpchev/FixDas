@@ -1,0 +1,62 @@
+.handyman-img {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.card-text {
+  height: 100px;
+}
+
+.card-title {
+  font-size: 15px;
+}
+.available-badge {
+  font-size: 8px;
+  background-color: #c3e2b0 !important;
+  color: #38830a;
+}
+
+.specialty-badge {
+  background-color: #e8effe;
+  color: #5584e5;
+}
+
+.show-profile-text {
+  color: #f16543;
+  text-decoration: none;
+}
+.contact-btn,
+.postCard-contact-btn {
+  background-color: #f16543;
+  color: white;
+}
+.seeMore-btn {
+  border: 1px solid #f16543;
+}
+
+.postCard-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.urgent-badge {
+  background-color: #ffdede !important;
+  color: #fe2414;
+}
+
+.postCard-fav-icon {
+  font-size: 1.2rem;
+  cursor: pointer;
+  color: #007bff;
+}
+
+.border-light {
+  border-color: #eee !important;
+}
+
+.show-handyman-icon {
+  cursor: pointer;
+}

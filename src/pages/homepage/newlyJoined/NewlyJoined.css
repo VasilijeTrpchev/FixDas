@@ -1,0 +1,32 @@
+.scroll-container {
+  display: flex;
+  overflow-x: auto;
+  padding: 1rem;
+  gap: 1rem;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.newly-joined-card {
+  min-width: 100px;
+  overflow: hidden;
+}
+
+.newly-joined-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.img-container img {
+  width: 15px;
+  height: 15px;
+}
+
+.new-Handyman {
+  font-size: 12px;
+}

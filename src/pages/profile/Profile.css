@@ -1,0 +1,54 @@
+.postProfile-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid hsl(23, 100%, 49%);
+}
+
+.clientProfile-img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.edit-img {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.edit-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background: rgba(203, 203, 203, 0.7);
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.post-card {
+  background-color: rgb(250, 250, 250);
+}
+
+.user-profile-infos {
+  font-size: 14px;
+}
+
+.edit-btn {
+  border: 2px solid hsl(23, 100%, 49%);
+  padding: 2px 12px;
+  border-radius: 12px;
+  font-size: 16px;
+}
+
+.posted-time {
+  font-size: 10px;
+}

@@ -1,0 +1,1240 @@
+{
+  "chats": [
+    {
+      "loggedUserId": "CickU0OMd5MIVEKSyesHaOTWdq22",
+      "userToChatWith": "Leo Hoffmann",
+      "role": "handyman",
+      "specialty": [
+        "Plumbing"
+      ],
+      "photoUrl": "https://thumbs.wbm.im/pw/medium/8aa78ae0321489346cebf5b8b454720b.jpg",
+      "timestamp": "2025-05-16T14:56:20.775Z",
+      "messages": [
+        {
+          "id": "fdb5b6f3-4ce1-4211-82c8-ded61f20826b",
+          "senderId": "CickU0OMd5MIVEKSyesHaOTWdq22",
+          "senderName": "Nadica Mitreva",
+          "text": "jo",
+          "timestamp": "2025-05-16T14:57:05.931Z"
+        },
+        {
+          "id": "26987f2d-0b0a-4cbe-932b-084b4d6fd745",
+          "senderId": "CickU0OMd5MIVEKSyesHaOTWdq22",
+          "senderName": "Nadica Mitreva",
+          "text": "hi",
+          "timestamp": "2025-05-20T20:22:55.111Z"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "loggedUserId": "CickU0OMd5MIVEKSyesHaOTWdq22",
+      "userToChatWith": "Julian Brandt",
+      "role": "handyman",
+      "specialty": [
+        "Painting"
+      ],
+      "photoUrl": "https://previews.123rf.com/images/lightfieldstudios/lightfieldstudios1811/lightfieldstudios181136836/112347594-portrait-of-middle-aged-male-craftsman-in-apron-posing-at-workshop.jpg",
+      "timestamp": "2025-05-16T14:57:29.669Z",
+      "messages": [],
+      "id": 2
+    },
+    {
+      "userToChatWith": "Leo Hoffmann",
+      "role": "handyman",
+      "specialty": [
+        "Plumbing"
+      ],
+      "photoUrl": "https://thumbs.wbm.im/pw/medium/8aa78ae0321489346cebf5b8b454720b.jpg",
+      "timestamp": "2025-05-16T15:01:03.777Z",
+      "messages": [],
+      "id": 3
+    },
+    {
+      "userToChatWith": "Felix Wagner",
+      "role": "handyman",
+      "specialty": [
+        "Plumbing",
+        "Roofing"
+      ],
+      "photoUrl": "https://www.shutterstock.com/shutterstock/photos/2043218213/display_1500/stock-photo-a-successful-auto-mechanic-standing-with-arms-crossed-in-car-mechanic-s-pit-with-arms-crossed-and-2043218213.jpg",
+      "timestamp": "2025-05-16T15:14:37.861Z",
+      "messages": [],
+      "id": 4
+    },
+    {
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "userToChatWith": "Felix Wagner",
+      "role": "handyman",
+      "specialty": [
+        "Plumbing",
+        "Roofing"
+      ],
+      "photoUrl": "https://www.shutterstock.com/shutterstock/photos/2043218213/display_1500/stock-photo-a-successful-auto-mechanic-standing-with-arms-crossed-in-car-mechanic-s-pit-with-arms-crossed-and-2043218213.jpg",
+      "timestamp": "2025-05-16T15:14:58.452Z",
+      "messages": [
+        {
+          "id": "e794a6c3-3d48-4597-a825-18f11a838a1d",
+          "senderId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+          "senderName": "Vasilije Trpchev",
+          "text": "jo",
+          "timestamp": "2025-05-16T15:15:00.439Z"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userToChatWith": "Sebastian König",
+      "role": "handyman",
+      "specialty": [
+        "Plumbing"
+      ],
+      "photoUrl": "https://c7.alamy.com/comp/F2WYX6/portrait-of-middle-aged-tradesman-standing-by-his-van-F2WYX6.jpg",
+      "timestamp": "2025-05-16T17:29:40.253Z",
+      "messages": [],
+      "id": 6
+    },
+    {
+      "loggedUserId": "CickU0OMd5MIVEKSyesHaOTWdq22",
+      "userToChatWith": "Lukas Neumann",
+      "role": "handyman",
+      "specialty": [
+        "Carpenting"
+      ],
+      "photoUrl": "https://www.shutterstock.com/shutterstock/photos/1020184591/display_1500/stock-photo-confident-smiling-painter-with-white-overalls-posing-with-arms-crossed-1020184591.jpg",
+      "timestamp": "2025-05-20T13:07:42.657Z",
+      "messages": [],
+      "id": 7
+    },
+    {
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "userToChatWith": "Leo Hoffmann",
+      "role": "handyman",
+      "specialty": [
+        "Plumbing"
+      ],
+      "photoUrl": "https://thumbs.wbm.im/pw/medium/8aa78ae0321489346cebf5b8b454720b.jpg",
+      "timestamp": "2025-05-23T09:04:15.995Z",
+      "messages": [
+        {
+          "id": "1e343259-e5e6-419c-9191-2ddfd9e65309",
+          "senderId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+          "senderName": "Vasilije Trpchev",
+          "text": "hi sss",
+          "timestamp": "2025-05-23T09:04:24.162Z"
+        },
+        {
+          "id": "4c8dc3bb-25f5-46fb-a637-3948d1d987a4",
+          "senderId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+          "senderName": "Vasilije Trpchev",
+          "text": "hello",
+          "timestamp": "2025-05-27T07:09:52.342Z"
+        },
+        {
+          "id": "f79ae5a0-060b-4902-a3d6-6b9c86210f0b",
+          "senderId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+          "senderName": "Vasilije Trpchev",
+          "text": "lorem ipsum sadsaokda oajdasodasidnasdasd",
+          "timestamp": "2025-05-28T16:24:32.390Z"
+        },
+        {
+          "id": "46b946d5-c784-46da-9d50-1e2f9b44277b",
+          "senderId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+          "senderName": "Vasilije Trpchev",
+          "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "timestamp": "2025-05-28T16:26:01.992Z"
+        },
+        {
+          "id": "2df44c8c-c4be-4066-a271-86befe607de0",
+          "senderId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+          "senderName": "Vasilije Trpchev",
+          "text": "insadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdasdasdasdasda",
+          "timestamp": "2025-05-28T16:30:12.198Z"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "userToChatWith": "Tobias Fischer",
+      "role": "handyman",
+      "specialty": [
+        "Electric"
+      ],
+      "photoUrl": "https://st5.depositphotos.com/1192060/72679/i/450/depositphotos_726795962-stock-photo-middle-aged-handyman-home.jpg",
+      "timestamp": "2025-05-24T10:46:59.960Z",
+      "messages": [],
+      "id": 9
+    },
+    {
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "userToChatWith": "Sebastian König",
+      "role": "handyman",
+      "specialty": [
+        "Plumbing"
+      ],
+      "photoUrl": "https://c7.alamy.com/comp/F2WYX6/portrait-of-middle-aged-tradesman-standing-by-his-van-F2WYX6.jpg",
+      "timestamp": "2025-05-25T12:15:30.513Z",
+      "messages": [
+        {
+          "id": "8f8a2f68-cb70-452c-8aae-555a43fc483a",
+          "senderId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+          "senderName": "Vasilije Trpchev",
+          "text": "jojo",
+          "timestamp": "2025-05-25T12:15:35.408Z"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "userToChatWith": "Kevin Albrecht",
+      "role": "handyman",
+      "specialty": [
+        "Home Repairing"
+      ],
+      "photoUrl": "https://thumbs.dreamstime.com/b/portrait-mature-handyman-8210894.jpg?w=992",
+      "timestamp": "2025-05-26T08:11:10.384Z",
+      "messages": [],
+      "id": 11
+    }
+  ],
+  "testimonials": [
+    {
+      "img": "https://randomuser.me/api/portraits/women/68.jpg",
+      "id": "1",
+      "name": "Sophie Meier",
+      "city": "Munich",
+      "rating": 5,
+      "comment": "Leo did an amazing job fixing our leaking kitchen sink. Super clean and professional!",
+      "repairImages": [
+        "https://images.pexels.com/photos/735319/pexels-photo-735319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/3990359/pexels-photo-3990359.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/5691502/pexels-photo-5691502.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "img": "https://randomuser.me/api/portraits/men/75.jpg",
+      "id": "2",
+      "name": "Tobias Klein",
+      "city": "Berlin",
+      "rating": 4,
+      "comment": "Ben rebuilt our old wooden fence — looks better than ever. Highly recommend him.",
+      "repairImages": [
+        "https://images.pexels.com/photos/5583113/pexels-photo-5583113.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/5691521/pexels-photo-5691521.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://media.istockphoto.com/id/1440019701/photo/close-up-of-plumber-repairing-sink-with-tool-in-bathroom.jpg?b=1&s=612x612&w=0&k=20&c=kcrfdQVRHWxXadPH3iC1tvEcmNNBp0PdqQ3I8z3Ksos="
+      ]
+    },
+    {
+      "img": "https://randomuser.me/api/portraits/women/55.jpg",
+      "id": "3",
+      "name": "Lena Schulz",
+      "city": "Hamburg",
+      "rating": 5,
+      "comment": "Our bedroom lights were flickering for weeks. Anna fixed the wiring quickly and safely!",
+      "repairImages": [
+        "https://media.istockphoto.com/id/1412399528/photo/professional-boiler-service-at-home.jpg?b=1&s=612x612&w=0&k=20&c=XxunAH-2Yxs8sj8k25udxYOuvGvh-b3C3rDvEdS8vvM=",
+        "https://media.istockphoto.com/id/973812618/photo/man-on-ladder-cleaning-house-gutter-from-leaves-and-dirt.jpg?b=1&s=612x612&w=0&k=20&c=i4c7RGDaPp9uCB8WxHPX5_QqI9O80aa9BF_2ZCAZFc4=",
+        "https://images.pexels.com/photos/5974057/pexels-photo-5974057.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    }
+  ],
+  "availableHandyman": [
+    {
+      "id": 1,
+      "user": "Leo Hoffmann",
+      "specialty": [
+        "Plumbing"
+      ],
+      "city": "Kavadarci",
+      "zipCode": "1430",
+      "rating": 5,
+      "img": "https://thumbs.wbm.im/pw/medium/8aa78ae0321489346cebf5b8b454720b.jpg",
+      "description": "10+ years of experience in the industry. Available for urgent missions. Active in the entire region around Rheda-Wiedenbrück.",
+      "coordinates": {
+        "lat": 41.42936389932603,
+        "lng": 22.01672374066807
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/0/a/a/0aa78334-2b33-4a17-92f3-61e4ba7b98b1_large/under-sink-maintenance-stockcake.jpg",
+        "https://images.stockcake.com/public/3/6/6/366d6e49-a434-4bb8-b6b6-45148ddadad6_large/professional-plumbing-work-stockcake.jpg",
+        "https://images.stockcake.com/public/f/e/0/fe07a3e1-6fb4-4185-8666-162eb5fc6d4a_large/precision-heater-maintenance-stockcake.jpg",
+        "https://images.stockcake.com/public/0/a/a/0aa78334-2b33-4a17-92f3-61e4ba7b98b1_large/under-sink-maintenance-stockcake.jpg",
+        "https://images.stockcake.com/public/3/6/6/366d6e49-a434-4bb8-b6b6-45148ddadad6_large/professional-plumbing-work-stockcake.jpg",
+        "https://images.stockcake.com/public/f/e/0/fe07a3e1-6fb4-4185-8666-162eb5fc6d4a_large/precision-heater-maintenance-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Johann Meyer",
+          "kundeCity": "Frankfurt",
+          "kundeRating": 5,
+          "kundeComment": "Excellent job with the floor, highly recommend!",
+          "kundeImg": "https://randomuser.me/api/portraits/men/5.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Erika Schmidt",
+          "kundeCity": "Munich",
+          "kundeRating": 4.7,
+          "kundeComment": "Very neat and precise work.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/3.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Olaf Keller",
+          "kundeCity": "Berlin",
+          "kundeRating": 4.5,
+          "kundeComment": "Quality work, but took a bit longer than expected.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/6.jpg"
+        },
+        {
+          "id": 4,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 5,
+          "kundeComment": "odlicen majstor",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        },
+        {
+          "id": 5,
+          "kundeName": "Nadica Mitreva",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 5,
+          "kundeComment": "super majstor 5",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-1/456941639_10220885393163981_6581993046435768862_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=cevPfKwzK1cQ7kNvwGxB_R1&_nc_oc=AdnZ2q83xEgR7h-1YfYgoPHexcRrjuAwdrfnVvIM_gZ8Lx1OdzHpv9sAGxKcT72KZmU0gbtgdWimhQ5Pkj7EwyUQ&_nc_zt=24&_nc_ht=scontent-dus1-1.xx&_nc_gid=Fxba-tVy8tcQYFnM74yGdQ&oh=00_AfLqCDLhbjWdZO1Gt7_tXe4FUpztER8P4mZgxd-6HqiXBg&oe=683D4BA2"
+        },
+        {
+          "id": 6,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 1,
+          "kundeComment": "nula",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-27",
+          "timeSlots": [
+            "08:00-10:00",
+            "13:00-15:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-29",
+          "timeSlots": [
+            "08:00-11:00",
+            "13:00-18:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-06-02",
+          "timeSlots": [
+            "10:00-12:00",
+            "13:00-15:00",
+            "18:00-20:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user": "Sebastian König",
+      "specialty": [
+        "Plumbing"
+      ],
+      "city": "Skopje",
+      "zipCode": "1000",
+      "rating": 5,
+      "img": "https://c7.alamy.com/comp/F2WYX6/portrait-of-middle-aged-tradesman-standing-by-his-van-F2WYX6.jpg",
+      "description": "Experienced plumber with a reputation for reliability. Covers the Herford and surrounding areas.",
+      "coordinates": {
+        "lat": 41.9981,
+        "lng": 21.4254
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/1/a/2/1a2be760-78cb-4f62-a8dd-d119661289d8_large/plumber-fixing-sink-stockcake.jpg",
+        "https://images.stockcake.com/public/7/e/2/7e2d8c5a-7368-479d-803a-aa716b276deb_large/emergency-pipe-repair-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Mia Hoffmann",
+          "kundeCity": "Berlin",
+          "kundeRating": 4.9,
+          "kundeComment": "Great work, very knowledgeable!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Luca Zimmermann",
+          "kundeCity": "Nuremberg",
+          "kundeRating": 4.8,
+          "kundeComment": "Efficient and professional.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/3.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Sebastian Wolf",
+          "kundeCity": "Leipzig",
+          "kundeRating": 4.5,
+          "kundeComment": "Fixed everything, though it took a bit longer than expected.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/4.jpg"
+        },
+        {
+          "id": 4,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 3,
+          "kundeComment": "it was fine ",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-06-05",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-06-07",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-06-09",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user": "Tobias Fischer",
+      "specialty": [
+        "Electric"
+      ],
+      "city": "Bitola",
+      "zipCode": "7000",
+      "rating": 4.4,
+      "img": "https://st5.depositphotos.com/1192060/72679/i/450/depositphotos_726795962-stock-photo-middle-aged-handyman-home.jpg",
+      "description": "Certified electrician with 8+ years of field work. Rapid response times and full regional availability.",
+      "coordinates": {
+        "lat": 41.0297,
+        "lng": 21.3292
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/7/2/8/72852aa1-bf86-428d-b33a-ba026fd3733e_large/roofer-at-work-stockcake.jpg",
+        "https://images.stockcake.com/public/b/1/6/b16b4884-0558-4a14-a0ba-91a0c41f99ef_large/roofer-at-work-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Tom Berger",
+          "kundeCity": "Kavadarci",
+          "kundeRating": 4.9,
+          "kundeComment": "Very experienced and helpful!",
+          "kundeImg": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Jonas Zimmer",
+          "kundeCity": "Rheda-Wiedenbrück",
+          "kundeRating": 4.8,
+          "kundeComment": "Everything fixed perfectly!",
+          "kundeImg": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Vanessa Koch",
+          "kundeCity": "Düsseldorf",
+          "kundeRating": 4.2,
+          "kundeComment": "Good but arrived a bit late.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/1.jpg"
+        },
+        {
+          "id": 4,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 5,
+          "kundeComment": "toppppppp",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        },
+        {
+          "id": 5,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 5,
+          "kundeComment": "odlicen majstor go preporacuvame ",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-05",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-07",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-09",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "user": "Julian Brandt",
+      "specialty": [
+        "Painting"
+      ],
+      "city": "Oerlinghausen",
+      "zipCode": "33813",
+      "rating": 4,
+      "img": "https://previews.123rf.com/images/lightfieldstudios/lightfieldstudios1811/lightfieldstudios181136836/112347594-portrait-of-middle-aged-male-craftsman-in-apron-posing-at-workshop.jpg",
+      "description": "Specialized in residential painting. Known for clean finishes and affordable service.",
+      "coordinates": {
+        "lat": 51.9544,
+        "lng": 8.6611
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/0/c/1/0c18199a-1d9e-41cf-90f5-259dd9f51219_large/roof-repair-work-stockcake.jpg",
+        "https://images.stockcake.com/public/c/c/0/cc0c16c8-541a-4b86-b273-13715264ca6e_large/skilled-roofer-working-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Anna Schulz",
+          "kundeCity": "Berlin",
+          "kundeRating": 5,
+          "kundeComment": "Amazing service, super clean and fast!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Markus Steiner",
+          "kundeCity": "Hamburg",
+          "kundeRating": 4.8,
+          "kundeComment": "Very professional and punctual.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Lisa Krüger",
+          "kundeCity": "Munich",
+          "kundeRating": 4.5,
+          "kundeComment": "Great job but a bit expensive.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/19.jpg"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-05",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-07",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-09",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "user": "Kevin Albrecht",
+      "specialty": [
+        "Home Repairing"
+      ],
+      "city": "Lage",
+      "zipCode": "32791",
+      "rating": 5,
+      "img": "https://thumbs.dreamstime.com/b/portrait-mature-handyman-8210894.jpg?w=992",
+      "description": "Trusted handyman for over a decade. Handles all kinds of home repairs with professionalism.",
+      "coordinates": {
+        "lat": 51.9922,
+        "lng": 8.7961
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/7/b/9/7b940730-c586-4149-a130-58727ba33c10_large/technician-examining-stove-stockcake.jpg",
+        "https://images.stockcake.com/public/5/7/9/579f716b-ca8c-4d53-bfa0-b81aca7b5b91_large/professional-bathroom-repair-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Anna Schulz",
+          "kundeCity": "Berlin",
+          "kundeRating": 5,
+          "kundeComment": "Amazing service, super clean and fast!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Markus Steiner",
+          "kundeCity": "Hamburg",
+          "kundeRating": 4.8,
+          "kundeComment": "Very professional and punctual.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Lisa Krüger",
+          "kundeCity": "Munich",
+          "kundeRating": 4.5,
+          "kundeComment": "Great job but a bit expensive.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/19.jpg"
+        },
+        {
+          "id": 4,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 4,
+          "kundeComment": "finneee",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-05",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-07",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-09",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "user": "Daniel Weber",
+      "specialty": [
+        "Electric",
+        "Plumbing"
+      ],
+      "city": "Bad Salzuflen",
+      "zipCode": "32105",
+      "rating": 4.7,
+      "img": "https://www.shutterstock.com/shutterstock/photos/2426159039/display_1500/stock-photo-profile-view-of-an-old-handyman-repairing-shoes-at-shoemaker-workshop-a-senior-cobbler-is-sitting-2426159039.jpg",
+      "description": "Dual-skilled in electrical and plumbing. Ready for complex assignments across Bad Salzuflen.",
+      "coordinates": {
+        "lat": 52.0866,
+        "lng": 8.7445
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/5/9/9/5995dd41-f111-4bab-891c-db46864b5eb1_large/vintage-dishwasher-repair-stockcake.jpg",
+        "https://images.stockcake.com/public/8/5/d/85d98b3a-fb4f-468a-be78-9506b359eedb_large/vintage-appliance-repair-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Anna Schulz",
+          "kundeCity": "Berlin",
+          "kundeRating": 5,
+          "kundeComment": "Amazing service, super clean and fast!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Markus Steiner",
+          "kundeCity": "Hamburg",
+          "kundeRating": 4.8,
+          "kundeComment": "Very professional and punctual.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Lisa Krüger",
+          "kundeCity": "Munich",
+          "kundeRating": 4.5,
+          "kundeComment": "Great job but a bit expensive.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/19.jpg"
+        },
+        {
+          "id": 4,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 5,
+          "kundeComment": "topppp123",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        },
+        {
+          "id": 5,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": null,
+          "kundeComment": "1111111",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        },
+        {
+          "id": 6,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 5,
+          "kundeComment": "tooooooooooop123123",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-05",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-07",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-09",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "user": "Lukas Neumann",
+      "specialty": [
+        "Carpenting"
+      ],
+      "city": "Paderborn",
+      "zipCode": "33098",
+      "rating": 4.9,
+      "img": "https://www.shutterstock.com/shutterstock/photos/1020184591/display_1500/stock-photo-confident-smiling-painter-with-white-overalls-posing-with-arms-crossed-1020184591.jpg",
+      "description": "Precision-focused carpenter with over 12 years of experience. Projects completed on time and budget.",
+      "coordinates": {
+        "lat": 51.7189,
+        "lng": 8.7575
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/4/b/2/4b2ef9a4-f862-40db-ba6f-ac72c3637b90_large/carpenter-fixing-cabinet-stockcake.jpg",
+        "https://images.stockcake.com/public/0/3/a/03a80dc4-31f6-4db3-ada1-a2b53e044cf5_large/carpenter-at-work-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Anna Schulz",
+          "kundeCity": "Berlin",
+          "kundeRating": 5,
+          "kundeComment": "Amazing service, super clean and fast!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Markus Steiner",
+          "kundeCity": "Hamburg",
+          "kundeRating": 4.8,
+          "kundeComment": "Very professional and punctual.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Lisa Krüger",
+          "kundeCity": "Munich",
+          "kundeRating": 4.5,
+          "kundeComment": "Great job but a bit expensive.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/19.jpg"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-25",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-27",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-29",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "user": "Niklas Meier",
+      "specialty": [
+        "Painting",
+        "Home Repairing"
+      ],
+      "city": "Detmold",
+      "zipCode": "32756",
+      "rating": 4.2,
+      "img": "https://www.shutterstock.com/shutterstock/photos/2357088971/display_1500/stock-photo-full-lenght-of-mature-happy-handyman-isolated-on-white-background-2357088971.jpg",
+      "description": "Versatile handyman skilled in both painting and repair jobs. Covers all of Detmold.",
+      "coordinates": {
+        "lat": 51.9386,
+        "lng": 8.8732
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/5/4/9/5495e71c-c5b3-49f3-886b-880ca298b1ec_large/industrial-spray-painter-stockcake.jpg",
+        "https://images.stockcake.com/public/a/8/0/a80a1eef-a981-4ea5-bff6-76d9a2121e8b_large/painter-at-work-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Anna Schulz",
+          "kundeCity": "Berlin",
+          "kundeRating": 5,
+          "kundeComment": "Amazing service, super clean and fast!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Markus Steiner",
+          "kundeCity": "Hamburg",
+          "kundeRating": 4.8,
+          "kundeComment": "Very professional and punctual.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Lisa Krüger",
+          "kundeCity": "Munich",
+          "kundeRating": 4.5,
+          "kundeComment": "Great job but a bit expensive.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/19.jpg"
+        },
+        {
+          "id": 4,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 3,
+          "kundeComment": "ok ",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-25",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-27",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-29",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "user": "Johannes Becker",
+      "specialty": [
+        "Gardening",
+        "Roofing"
+      ],
+      "city": "Werther",
+      "zipCode": "33824",
+      "rating": 4.5,
+      "img": "https://www.shutterstock.com/shutterstock/photos/2163960195/display_1500/stock-photo-portrait-of-smiling-workerman-in-uniform-with-crossed-hands-looking-at-side-2163960195.jpg",
+      "description": "Expert in garden maintenance and landscaping. Friendly and detail-oriented.",
+      "coordinates": {
+        "lat": 52.0714,
+        "lng": 8.4202
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/c/3/8/c38dda47-a7ed-4f7f-bec1-f778f6bf44e8_large/nurturing-spring-soil-stockcake.jpg",
+        "https://images.stockcake.com/public/4/6/0/4606c579-e8e8-42cd-af75-cf9f06d5a8ba_large/gardening-in-yellow-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Anna Schulz",
+          "kundeCity": "Berlin",
+          "kundeRating": 5,
+          "kundeComment": "Amazing service, super clean and fast!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Markus Steiner",
+          "kundeCity": "Hamburg",
+          "kundeRating": 4.8,
+          "kundeComment": "Very professional and punctual.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Lisa Krüger",
+          "kundeCity": "Munich",
+          "kundeRating": 4.5,
+          "kundeComment": "Great job but a bit expensive.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/19.jpg"
+        },
+        {
+          "id": 4,
+          "kundeName": "Vasilije Trpchev",
+          "kundeCity": "Bielefeld",
+          "kundeRating": 5,
+          "kundeComment": "odlicen",
+          "kundeImg": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-25",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-27",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-29",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "user": "Felix Wagner",
+      "specialty": [
+        "Plumbing",
+        "Roofing"
+      ],
+      "city": "Bielefeld",
+      "zipCode": "33609",
+      "rating": 5,
+      "img": "https://www.shutterstock.com/shutterstock/photos/2043218213/display_1500/stock-photo-a-successful-auto-mechanic-standing-with-arms-crossed-in-car-mechanic-s-pit-with-arms-crossed-and-2043218213.jpg",
+      "description": "Experienced in structural and plumbing work. Available for regional emergency calls.",
+      "coordinates": {
+        "lat": 52.0284513959241,
+        "lng": 8.559577312367821
+      },
+      "finishedJobsImgs": [
+        "https://images.stockcake.com/public/e/f/c/efc106ca-33a8-4469-add2-4e6a51f77b6a_large/plumber-at-work-stockcake.jpg",
+        "https://images.stockcake.com/public/9/d/0/9d09af30-a4e2-47ac-b2a4-ea823abfc97d_large/plumber-at-work-stockcake.jpg"
+      ],
+      "kundeFeedback": [
+        {
+          "id": 1,
+          "kundeName": "Anna Schulz",
+          "kundeCity": "Berlin",
+          "kundeRating": 5,
+          "kundeComment": "Amazing service, super clean and fast!",
+          "kundeImg": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+          "id": 2,
+          "kundeName": "Markus Steiner",
+          "kundeCity": "Hamburg",
+          "kundeRating": 4.8,
+          "kundeComment": "Very professional and punctual.",
+          "kundeImg": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+          "id": 3,
+          "kundeName": "Lisa Krüger",
+          "kundeCity": "Munich",
+          "kundeRating": 4.5,
+          "kundeComment": "Great job but a bit expensive.",
+          "kundeImg": "https://randomuser.me/api/portraits/women/19.jpg"
+        }
+      ],
+      "availableToBook": [
+        {
+          "date": "2025-05-25",
+          "timeSlots": [
+            "08:00-11:00",
+            "14:00-16:00",
+            "18:00-20:00"
+          ]
+        },
+        {
+          "date": "2025-05-27",
+          "timeSlots": [
+            "08:00-10:00",
+            "12:00-14:00",
+            "16:00-18:00"
+          ]
+        },
+        {
+          "date": "2025-05-29",
+          "timeSlots": [
+            "09:00-11:00",
+            "13:00-15:00",
+            "17:00-19:00"
+          ]
+        }
+      ]
+    }
+  ],
+  "topRatedHandymen": [
+    {
+      "id": "1",
+      "user": "Lukas Schneider",
+      "specialty": "Plumbing",
+      "city": "Herford",
+      "rating": 4.6,
+      "specialtyColorBadge": "primary",
+      "img": "https://thumbs.wbm.im/pw/medium/8aa78ae0321489346cebf5b8b454720b.jpg"
+    },
+    {
+      "id": "2",
+      "user": "Jonas Weber",
+      "specialty": "Electric",
+      "city": "Gütersloh",
+      "rating": 4.8,
+      "specialtyColorBadge": "warning",
+      "img": "https://c7.alamy.com/comp/F2WYX6/portrait-of-middle-aged-tradesman-standing-by-his-van-F2WYX6.jpg"
+    },
+    {
+      "id": "3",
+      "user": "Maximilian Koch",
+      "specialty": "Painting",
+      "city": "Detmold",
+      "rating": 4.5,
+      "specialtyColorBadge": "info",
+      "img": "https://previews.123rf.com/images/lightfieldstudios/lightfieldstudios1811/lightfieldstudios181136836/112347594-portrait-of-middle-aged-male-craftsman-in-apron-posing-at-workshop.jpg"
+    },
+    {
+      "id": "4",
+      "user": "Felix Zimmermann",
+      "specialty": "Carpenting",
+      "city": "Paderborn",
+      "rating": 4.7,
+      "specialtyColorBadge": "success",
+      "img": "https://thumbs.dreamstime.com/b/portrait-mature-handyman-8210894.jpg?w=992"
+    },
+    {
+      "id": "5",
+      "user": "Leon Fischer",
+      "specialty": "Plumbing",
+      "city": "Bad Salzuflen",
+      "rating": 4.3,
+      "specialtyColorBadge": "primary",
+      "img": "https://www.shutterstock.com/shutterstock/photos/2426159039/display_1500/stock-photo-profile-view-of-an-old-handyman-repairing-shoes-at-shoemaker-workshop-a-senior-cobbler-is-sitting-2426159039.jpg"
+    }
+  ],
+  "newlyJoinedHandymen": [
+    {
+      "id": "1",
+      "name": "Daniel Wagner",
+      "specialty": "Plumbing",
+      "img": "https://randomuser.me/api/portraits/men/11.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bastian Keller",
+      "specialty": "Electric",
+      "img": "https://randomuser.me/api/portraits/men/21.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Nico Braun",
+      "specialty": "Painting",
+      "img": "https://randomuser.me/api/portraits/men/31.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Tim Neumann",
+      "specialty": "Electric",
+      "img": "https://randomuser.me/api/portraits/men/41.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Fabian Schäfer",
+      "specialty": "Carpenting",
+      "img": "https://randomuser.me/api/portraits/men/51.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Erik Fuchs",
+      "specialty": "Roofing",
+      "img": "https://randomuser.me/api/portraits/men/71.jpg"
+    }
+  ],
+  "clientPosts": [
+    {
+      "category": "plumbing",
+      "description": "okook",
+      "city": "okokok",
+      "clientImgs": [],
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "createdAt": "2025-05-28T19:23:33.621Z",
+      "status": "Urgent",
+      "img": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B",
+      "id": 1
+    },
+    {
+      "category": "carpenting",
+      "description": "asdsadsadasda",
+      "city": "sadasdasd",
+      "clientImgs": [],
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "createdAt": "2025-05-28T19:30:34.147Z",
+      "status": "Urgent",
+      "img": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B",
+      "id": 3
+    },
+    {
+      "category": "painting",
+      "description": "dsadsadad",
+      "city": "sadasdas",
+      "clientImgs": [],
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "createdAt": "2025-05-28T19:32:03.674Z",
+      "status": "Urgent",
+      "img": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B",
+      "id": 4
+    },
+    {
+      "category": "carpenting",
+      "description": "asdadasd",
+      "city": "Bielelfed",
+      "clientImgs": [],
+      "loggedUserId": "CickU0OMd5MIVEKSyesHaOTWdq22",
+      "createdAt": "2025-05-28T22:16:00.150Z",
+      "status": "Urgent",
+      "img": "https://lh3.googleusercontent.com/a/ACg8ocIMeevnVvu3v3mNTtwqyc-JPUL1SsOYW0-YSCMzQRUPGfYZTCWQ=s96-c",
+      "id": 5
+    }
+  ],
+  "loggedUser": [
+    {
+      "loggedUserId": "CickU0OMd5MIVEKSyesHaOTWdq22",
+      "name": "Nadica Mitreva",
+      "email": "nadicamitreva997@gmail.com",
+      "phone": "01 299 4242",
+      "city": "Bielefeld",
+      "photoUrl": "https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-1/456941639_10220885393163981_6581993046435768862_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=cevPfKwzK1cQ7kNvwGxB_R1&_nc_oc=AdnZ2q83xEgR7h-1YfYgoPHexcRrjuAwdrfnVvIM_gZ8Lx1OdzHpv9sAGxKcT72KZmU0gbtgdWimhQ5Pkj7EwyUQ&_nc_zt=24&_nc_ht=scontent-dus1-1.xx&_nc_gid=Fxba-tVy8tcQYFnM74yGdQ&oh=00_AfLqCDLhbjWdZO1Gt7_tXe4FUpztER8P4mZgxd-6HqiXBg&oe=683D4BA2",
+      "id": 1
+    },
+    {
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "name": "Vasilije Trpchev",
+      "email": "vasilije.trpcev1@gmail.com",
+      "phone": "01 944 242 2324",
+      "city": "Bielefeld",
+      "photoUrl": "https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/53386695_2201078689931279_6632962022369656832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=g03ezNuobzkQ7kNvwF7yfhH&_nc_oc=AdlOYa3SNrbSVZvU1tB6HNDSqdG0jdVJdeZ7JYCoLHz_IOnorWojVOUVQNpqwCTLjzOnA6-qsCVxmdrhuq7ArHas&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=e9TKRw8Z20aF26_aBGvb4A&oh=00_AfLAU8DHtxcx3ZitAfMVkR6-VXjGzPAWdTX4fJXbeIqiJQ&oe=68578F2B",
+      "id": 2
+    }
+  ],
+  "bookedClients": [
+    {
+      "handymanId": 3,
+      "handymanName": "Sebastian König",
+      "handymanImg": "https://thumbs.dreamstime.com/b/portrait-mature-handyman-8210894.jpg?w=992",
+      "loggedUserId": "O5je08rCNFPkvyrBZtYfnL3Px2Q2",
+      "date": "2025-05-07",
+      "time": "08:00-10:00",
+      "description": "i can fix your sink",
+      "city": "Skopje",
+      "status": "new-request",
+      "specialty": [
+        "Plumbing"
+      ],
+      "coordinates": {
+        "lat": 51.9922,
+        "lng": 8.7961
+      },
+      "id": 1
+    }
+  ]
+}

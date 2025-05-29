@@ -1,0 +1,31 @@
+.sign-in-logo {
+  width: 120px;
+  height: 120px;
+}
+.sign-in-logo img {
+  width: 100%;
+  height: 120px;
+}
+
+.register-as {
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+}
+
+.register-as-active,
+.register-as:hover {
+  color: #e65900;
+}
+
+.sign-in-btn {
+  padding: 18px 32px;
+  border-radius: 8px;
+  width: 100%;
+  background-color: inherit;
+}
+
+.login-link {
+  text-decoration: none;
+  color: #e65900;
+}
