@@ -14,7 +14,7 @@ const FindHandyman = () => {
   const categoryParam = searchParams.get("category_like");
 
   const [searchTerm, setSearchTerm] = useState("");
-  const [zipCode, setZipCode] = useState("");
+  const [_, setZipCode] = useState("");
 
   const [availableHandyman, setAvailableHandyman] = useState<
     AvailableHandyman[]
