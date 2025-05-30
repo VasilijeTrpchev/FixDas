@@ -13,8 +13,8 @@ const UserPost = ({
   const { userInfo: authUserInfo } = useUser();
 
   return (
-    <div className="col-12 col-md-6 col-lg-3 mb-3 mb-md-0">
-      <div className="card post-card p-3">
+    <div className="col-12 col-md-6 col-lg-4 mb-3 mb-md-0">
+      <div className="card post-card p-3 h-100">
         <div className="row">
           <div className="col-9 col-md-8 d-flex justify-content-between align-items-center">
             <img
@@ -53,22 +53,19 @@ const UserPost = ({
           <div className="border  my-2"></div>
           <p className="">{post.description}</p>
         </div>
-        <div className="d-flex">
+        <div className="d-flex ">
           <span>
             <i className="fa-solid fa-location-dot me-1 text-primary"></i>
           </span>
-          <p className="city">{post.city} </p>{" "}
+          <p className="city ">{post.city} </p>{" "}
         </div>
-        <div className="repair-img-grid">
+        <div className="d-flex justify-content-start  h-100 flex-wrap gap-2 mt-2 ">
           {post.clientImgs.length > 0 ? (
             post.clientImgs.map((image) => {
               return (
-                <img
-                  className="repair-img"
-                  key={crypto.randomUUID()}
-                  src={image}
-                  alt=""
-                />
+                <div className="post-imgs">
+                  <img key={crypto.randomUUID()} src={image} alt="" />
+                </div>
               );
             })
           ) : (
