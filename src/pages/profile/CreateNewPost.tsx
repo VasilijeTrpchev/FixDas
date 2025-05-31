@@ -77,7 +77,7 @@ const CreateNewPost = ({
             <i className="fa-solid fa-chevron-left"></i>
           </div>
           <h4 className="mb-0 main-color">Create new post</h4>
-          <img src={"/icons/notification-icon.png"} alt="" />
+          <i className="fa-regular fa-bell text-primary fa-2x"></i>
         </div>
       </div>
       <div className="row my-3">
